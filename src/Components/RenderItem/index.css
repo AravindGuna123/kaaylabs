@@ -1,0 +1,28 @@
+.each-user{
+    display: flex;
+    flex-direction: column;
+    width:300px;
+    
+    background-color: azure;
+    justify-content: space-between;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.delete-button{
+    height: 50px;
+    width:50px;
+    background-color: transparent;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: beige;
+}
+
+.each-user-block{
+    display: flex;
+    justify-content: space-between;
+}
+
+.heading-block{
+    display: flex;
+}
